@@ -89,6 +89,8 @@ This workshop edition will explore topics related to:
 - Performance engineering for Machine Learning systems
 - Machine learning for performance engineering tasks
 - Industry reports on performance engineering challenges and experience
+- Performance modeling and otimization for microservice and serverless architecture
+- Autoscaling solutions for cloud-based systems
 
 
 ## Organizing Committee
