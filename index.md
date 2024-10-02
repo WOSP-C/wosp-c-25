@@ -21,9 +21,8 @@ The 10th WOSP-C 2025 is co-located with ICPE 2025, and it will be held on May 20
 | 12:17pm         | Andreas Brunnert.	__Green Software Metrics__| -->
 
 ### Keynote
-
-
 **TBA**
+
 <!-- **Marin Litoiu**, York University
 
 _Biography_: 
