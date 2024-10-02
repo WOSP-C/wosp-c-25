@@ -117,7 +117,9 @@ This workshop edition will explore topics related to:
 
 
 ## Important dates
+
 **TBA**
+
 <!-- - Paper submission: February 7, 2024
 - Author notification: March 5, 2024 -->
 
