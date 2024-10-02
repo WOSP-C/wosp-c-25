@@ -5,9 +5,10 @@ The workshop encompasses topics such as performance assurance processes, the int
 
 
 ## Program
-The 9th WOSP-C 2024 is co-located with ICPE 2024, and it will be held on May 7.
+The 10th WOSP-C 2025 is co-located with ICPE 2025, and it will be held on May 5-9 2025 in Toronto.
 
-| Time (GMT+1)      | Title |
+**TBA**
+<!-- | Time (GMT+1)      | Title |
 |----------------------|-------|
 | 9:00am       | Welcome: Heng Li, and Luca Traini |
 | 9:05am      | **Keynote**: Closing the Loop: Building Self-Adaptive Software for Continuous Performance Engineering - **Marin Litoiu**, York University |
@@ -17,11 +18,13 @@ The 9th WOSP-C 2024 is co-located with ICPE 2024, and it will be held on May 7.
 | 11:00am       | **Keynote**:  25+ years of Software Performance: From Integrated System Modelling to ML-based Analysis, What’s Next? - **Vittorio Cortellessa**, University of L’Aquila |
 | 11:45am       |  Rares Dobre, Zifeng Niu and Giuliano Casale.	__Approximating Fork-Join Systems via Mixed Model Transformations__|
 | 12:05pm         | Jonathan Will, Dominik Scheinert, Seraphin Zunzer, Jan Bode, Cedric Kring and Lauritz Thamsen.	__Privacy-Preserving Sharing of Data Analytics Runtime Metrics for Performance Modeling__|
-| 12:17pm         | Andreas Brunnert.	__Green Software Metrics__|
+| 12:17pm         | Andreas Brunnert.	__Green Software Metrics__| -->
 
 ### Keynote
 
-**Marin Litoiu**, York University
+
+**TBA**
+<!-- **Marin Litoiu**, York University
 
 _Biography_: 
 
@@ -49,14 +52,15 @@ Vittorio Cortellessa is Professor at the Department of Computer Science and Engi
 
 _Abstract_: 
 
-A new era has been opened at the end of last century in the performance analysis research area, when an explicit and independent role has started to be given to software in performance analysis of computing systems. Indeed, software has moved from being a monolithic element, strictly dependent on the platform where it is deployed and exclusively aimed at producing values to parameterize a platform model, to become an independent model itself, with its own components and interactions. This change has impacted all fields of this research area, such as: modeling languages, processes for analysis and synthesis of software models, platform model parameterization, performance model solution techniques, interpretation of results, benchmarking and performance testing. It has also represented one of the triggers that lead to the birth of a research community around the computing system performance issues strictly related to software aspects. Indeed, in 1998 the first ACM Workshop on Software and Performance (WOSP) took place, with the aim of getting together researchers and practitioners of software area with the ones of the performance area, so to offer a playground where different skills and expertise could join and originate a new vision on the role of software in performance assessment. This talk attempts to reconstruct the road of software performance research that has started at the time of the first WOSP event in 1998 down to today events (i.e., ICPE conference, WOSP-C and other workshops). The spirit of the talk is to observe the evolution of this research area, including successful and (apparently) unsuccessful directions. Some promising directions will be tentatively sketched by “standing on the shoulders of giants”.
+A new era has been opened at the end of last century in the performance analysis research area, when an explicit and independent role has started to be given to software in performance analysis of computing systems. Indeed, software has moved from being a monolithic element, strictly dependent on the platform where it is deployed and exclusively aimed at producing values to parameterize a platform model, to become an independent model itself, with its own components and interactions. This change has impacted all fields of this research area, such as: modeling languages, processes for analysis and synthesis of software models, platform model parameterization, performance model solution techniques, interpretation of results, benchmarking and performance testing. It has also represented one of the triggers that lead to the birth of a research community around the computing system performance issues strictly related to software aspects. Indeed, in 1998 the first ACM Workshop on Software and Performance (WOSP) took place, with the aim of getting together researchers and practitioners of software area with the ones of the performance area, so to offer a playground where different skills and expertise could join and originate a new vision on the role of software in performance assessment. This talk attempts to reconstruct the road of software performance research that has started at the time of the first WOSP event in 1998 down to today events (i.e., ICPE conference, WOSP-C and other workshops). The spirit of the talk is to observe the evolution of this research area, including successful and (apparently) unsuccessful directions. Some promising directions will be tentatively sketched by “standing on the shoulders of giants”. -->
 
 ---
 
 ### Accepted papers
 
+**TBA**
 
-Marcel Lütke Dreimann, Birte Friesel and Olaf Spinczyk.	**HetSim: A Simulator for Task-based Scheduling on Heterogeneous Hardware**
+<!-- Marcel Lütke Dreimann, Birte Friesel and Olaf Spinczyk.	**HetSim: A Simulator for Task-based Scheduling on Heterogeneous Hardware**
 
 Josef Mayrhofer.	**Establish a Performance Engineering Culture in Organizations**
 
@@ -64,7 +68,7 @@ Rares Dobre, Zifeng Niu and Giuliano Casale.	**Approximating Fork-Join Systems v
 
 Jonathan Will, Dominik Scheinert, Seraphin Zunzer, Jan Bode, Cedric Kring and Lauritz Thamsen.	**Privacy-Preserving Sharing of Data Analytics Runtime Metrics for Performance Modeling**
 
-Andreas Brunnert.	**Green Software Metrics**
+Andreas Brunnert.	**Green Software Metrics** -->
 
 ---
 
@@ -90,8 +94,8 @@ This workshop edition will explore topics related to:
 
 ## Organizing Committee
  
- - Luca Traini, University of L'Aquila, Italy
- - Heng Li, Polytechnique Montréal, Canada
+ - Emilio Incerto, IMT School for Advanced Studies Lucca, Italy
+ - Giovanni Quattrocchi, Politecnico di Milano, Italy
 
 ## Technical Program Committee
 
@@ -107,8 +111,9 @@ This workshop edition will explore topics related to:
 
 
 ## Important dates
-- Paper submission: February 7, 2024
-- Author notification: March 5, 2024
+**TBA**
+<!-- - Paper submission: February 7, 2024
+- Author notification: March 5, 2024 -->
 
 ## Submission
 
@@ -122,10 +127,12 @@ _Please ensure that you and your co-authors obtain an ORCID ID, so you can compl
 
 ## Contact
 
-[WOSPC2024@easychair.org](mailto:WOSPC2024@easychair.org)
+[WOSPC2025@easychair.org](mailto:WOSPC2025@easychair.org)
 
 
 ## Past WOSP-C editions
+
+[WOSP-C 2024](https://wosp-c.github.io/wosp-c-24/)
 
 [WOSP-C 2023](https://wosp-c.github.io/wosp-c-23/)
 
