@@ -99,7 +99,8 @@ This workshop edition will explore topics related to:
  - Giovanni Quattrocchi, Politecnico di Milano, Italy
 
 ## Technical Program Committee
-
+**TBA**
+<!-- 
 - Murray Woodside, Carleton University 
 - Andre Bondi, Software Performance and Scalability Consulting LLC 
 - Vittorio Cortellesa, University of L’Aquila 
@@ -114,18 +115,17 @@ This workshop edition will explore topics related to:
 - Marios Fokaefs, York University 
 - Lizhi Liao, University of Waterloo 
 - Daniele Di Pompeo, University of L’Aquila 
+-->
 
 
 ## Important dates
 
-**TBA**
-
-<!-- - Paper submission: February 7, 2024
-- Author notification: March 5, 2024 -->
+- Paper submission: January 12, 2025
+- Author notification: Febrary 12, 2025
 
 ## Submission
 
-Authors are invited to submit original, unpublished papers that are not being considered in any other venue. Papers should be in the ACM format. They should describe research results, experience, visions or new initiatives. This year, we accept submissions as full (8 pages), Vision or Work-in-progress (4 pages), and Industrial experiences (2 pages) papers. Page limits include references. Papers should be submitted via Easychair at [EasyChair WOSP-C 2025](https://easychair.org/conferences/?conf=icpe2025) (by selecting the "author" role, then "New Submission", and then the WOSP-C 2025 track).
+Authors are invited to submit original, unpublished papers that are not being considered in any other venue. Papers should be in the ACM format. They should describe research results, experience, visions or new initiatives. This year, we accept submissions as full (8 pages), Vision or Work-in-progress (4 pages), and Industrial experiences (2 pages) papers. Page limits include references. Papers should be submitted via HotCRP at [HotCRP WOSP-C 2025](https://wosp-c2025.hotcrp.com/).
 
 ACM templates may be found [here](https://www.acm.org/publications/proceedings-template). Presented papers will be published in the ICPE 2025 companion proceedings, which will be published by ACM and included in the ACM Digital Library. Authors are required to adhere to the ACM Policy and Procedures on Plagiarism, as well as to the ACM Policy on Prior Publication and Simultaneous Submissions. Concurrent submission of the same work to ICPE 2025 and to WOSP-C or any other ICPE 2025 workshop is not permitted.
 
@@ -135,7 +135,7 @@ _Please ensure that you and your co-authors obtain an ORCID ID, so you can compl
 
 ## Contact
 
-[WOSPC2025@easychair.org](mailto:WOSPC2025@easychair.org)
+[emilio.incerto@imtlucca.it](mailto:emilio.incerto@imtlucca.it)
 
 
 ## Past WOSP-C editions
