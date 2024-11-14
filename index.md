@@ -100,6 +100,7 @@ This workshop edition will explore topics related to:
 
 ## Technical Program Committee
 **TBA**
+
 <!-- - Murray Woodside, Carleton University 
 - Andre Bondi, Software Performance and Scalability Consulting LLC 
 - Vittorio Cortellesa, University of L’Aquila 
