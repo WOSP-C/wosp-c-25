@@ -100,8 +100,7 @@ This workshop edition will explore topics related to:
 
 ## Technical Program Committee
 **TBA**
-<!-- 
-- Murray Woodside, Carleton University 
+<!-- - Murray Woodside, Carleton University 
 - Andre Bondi, Software Performance and Scalability Consulting LLC 
 - Vittorio Cortellesa, University of L’Aquila 
 - Michele Tucci, University of L’Aquila 
@@ -114,8 +113,7 @@ This workshop edition will explore topics related to:
 - Jinfu Chen, Wuhan University 
 - Marios Fokaefs, York University 
 - Lizhi Liao, University of Waterloo 
-- Daniele Di Pompeo, University of L’Aquila 
--->
+- Daniele Di Pompeo, University of L’Aquila  -->
 
 
 ## Important dates
