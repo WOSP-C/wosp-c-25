@@ -71,8 +71,6 @@ Andreas Brunnert.	**Green Software Metrics** -->
 
 ---
 
-
-
 ## Call for paper
 
 We welcome contributions that foster meaningful discussions on both foundational and novel topics within the performance engineering community.
@@ -85,7 +83,7 @@ This workshop edition will explore topics related to:
 - AIOps for performance assurance
 - Performance testing and debugging
 - Performance engineering in Agile/DevOps software processes
-- Green software and energy efficiency
+- Sustainable software engineering
 - Performance engineering for Machine Learning systems
 - Machine learning for performance engineering tasks
 - Industry reports on performance engineering challenges and experience
@@ -99,22 +97,18 @@ This workshop edition will explore topics related to:
  - Giovanni Quattrocchi, Politecnico di Milano, Italy
 
 ## Technical Program Committee
-**TBA**
 
-<!-- - Murray Woodside, Carleton University 
+- Murray Woodside, Carleton University 
 - Andre Bondi, Software Performance and Scalability Consulting LLC 
-- Vittorio Cortellesa, University of L’Aquila 
-- Michele Tucci, University of L’Aquila 
-- Philippe Leitneir, Chalmers University of Technology 
-- Christoph Laaber, Simula Research Laboratory 
-- Cor-Paul Bezemer, University of Alberta 
+- Michele Tucci, University of L’Aquila  
 - Tse-Hsun Peter Chen, Concordia University 
 - Sören Henning, Dynatrace 
+- Heng Li, 
+- Eddie Kohler, Concordia University 
 - Diego Elias Costa, Concordia University 
 - Jinfu Chen, Wuhan University 
 - Marios Fokaefs, York University 
-- Lizhi Liao, University of Waterloo 
-- Daniele Di Pompeo, University of L’Aquila  -->
+- Lizhi Liao, Polytechnique Montreal 
 
 
 ## Important dates
