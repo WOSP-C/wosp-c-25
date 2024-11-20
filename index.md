@@ -103,7 +103,7 @@ This workshop edition will explore topics related to:
 - Michele Tucci, University of L’Aquila  
 - Tse-Hsun Peter Chen, Concordia University 
 - Sören Henning, Dynatrace 
-- Heng Li, 
+- Heng Li, Polytechnique Montréal
 - Eddie Kohler, Concordia University 
 - Diego Elias Costa, Concordia University 
 - Jinfu Chen, Wuhan University 
