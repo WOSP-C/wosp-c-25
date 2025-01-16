@@ -113,7 +113,7 @@ This workshop edition will explore topics related to:
 
 ## Important dates
 
-- Paper submission: January 12, 2025
+- Paper submission: January 25, 2025
 - Author notification: Febrary 12, 2025
 
 ## Submission
