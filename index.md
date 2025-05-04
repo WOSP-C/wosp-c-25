@@ -5,7 +5,7 @@ The workshop encompasses topics such as performance assurance processes, the int
 
 
 ## Program
-The 10th WOSP-C 2025 is co-located with ICPE 2025, and it will be held on May 2025 in Toronto.
+The 10th WOSP-C 2025 is co-located with ICPE 2025, and it will be held on May 6 2025 in Toronto.
 
 Extraordinarily, and just for this single edition, the WOSP-C program is fused with the program of the [3rd workshop AIPerf and Optimization in the LLM World](https://sites.google.com/view/aiprefllm2025).
 
@@ -70,9 +70,10 @@ Rares Dobre, Zifeng Niu and Giuliano Casale.	**Approximating Fork-Join Systems v
 
 Jonathan Will, Dominik Scheinert, Seraphin Zunzer, Jan Bode, Cedric Kring and Lauritz Thamsen.	**Privacy-Preserving Sharing of Data Analytics Runtime Metrics for Performance Modeling**
 
-Andreas Brunnert.	**Green Software Metrics** -->
+Andreas Brunnert.	**Green Software Metrics** 
 
 ---
+-->
 
 ## Call for paper
 
