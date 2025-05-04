@@ -7,7 +7,10 @@ The workshop encompasses topics such as performance assurance processes, the int
 ## Program
 The 10th WOSP-C 2025 is co-located with ICPE 2025, and it will be held on May 2025 in Toronto.
 
-**TBA**
+Extraordinarily, and just for this single edition, the WOSP-C program is fused with the program of the [3rd workshop AIPerf and Optimization in the LLM World](https://sites.google.com/view/aiprefllm2025).
+
+WOSP-C's specific contribution to the combined schedule will be a panel focused on discussing two key areas: the challenges encountered when applying AI within Performance Engineering, and conversely, the benefits that classic Performance Engineering techniques can bring to AI.
+
 <!-- | Time (GMT+1)      | Title |
 |----------------------|-------|
 | 9:00am       | Welcome: Heng Li, and Luca Traini |
@@ -20,10 +23,10 @@ The 10th WOSP-C 2025 is co-located with ICPE 2025, and it will be held on May 20
 | 12:05pm         | Jonathan Will, Dominik Scheinert, Seraphin Zunzer, Jan Bode, Cedric Kring and Lauritz Thamsen.	__Privacy-Preserving Sharing of Data Analytics Runtime Metrics for Performance Modeling__|
 | 12:17pm         | Andreas Brunnert.	__Green Software Metrics__| -->
 
-### Keynote
+<!-- ### Keynote
 **TBA**
 
-<!-- **Marin Litoiu**, York University
+**Marin Litoiu**, York University
 
 _Biography_: 
 
@@ -55,11 +58,11 @@ A new era has been opened at the end of last century in the performance analysis
 
 ---
 
-### Accepted papers
+<!--### Accepted papers
 
 **TBA**
 
-<!-- Marcel Lütke Dreimann, Birte Friesel and Olaf Spinczyk.	**HetSim: A Simulator for Task-based Scheduling on Heterogeneous Hardware**
+Marcel Lütke Dreimann, Birte Friesel and Olaf Spinczyk.	**HetSim: A Simulator for Task-based Scheduling on Heterogeneous Hardware**
 
 Josef Mayrhofer.	**Establish a Performance Engineering Culture in Organizations**
 
